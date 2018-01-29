@@ -1,0 +1,24 @@
+h1 {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif; }
+
+.hh {
+  background-color: #2f2f2f; }
+
+body {
+   background: url('inter.JPG') no-repeat;
+   background-size: cover;    
+   background-attachment: fixed;  
+   font-family: "Open Sans", Arial, Helvetica, sans-serif;
+   color: white;
+   font-weight: 200; }
+
+.demo {
+  color: white;
+  font-size: 23px; }
+
+.btn {
+  color: black; }
+                                
+.btn:hover {
+  background-color: firebrick;
+  color: #ffffff; }
