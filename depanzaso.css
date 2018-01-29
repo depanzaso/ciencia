@@ -1,24 +1,9 @@
-h1 {
-  font-family: "Open Sans", Arial, Helvetica, sans-serif; }
 
-.hh {
-  background-color: #2f2f2f; }
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
 
-body {
-   background: url('inter.JPG') no-repeat;
-   background-size: cover;    
-   background-attachment: fixed;  
-   font-family: "Open Sans", Arial, Helvetica, sans-serif;
-   color: white;
-   font-weight: 200; }
+.w3-sidebar {width: 120px;background: #222;}
 
-.demo {
-  color: white;
-  font-size: 23px; }
+#main {margin-left: 120px}
 
-.btn {
-  color: black; }
-                                
-.btn:hover {
-  background-color: firebrick;
-  color: #ffffff; }
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
